@@ -47,6 +47,7 @@ Khobar and they are relatively small cites.
 #### Data Exploration
 
 ![1](https://user-images.githubusercontent.com/105590616/188983031-573f239b-249c-45b0-8c94-7b31133f680f.png)
+
 The figure shows prices range in the 4 cites. for example, in Riyadh we can see the 
 normal distribution in prices with median of 80k SAR, and 25% 50000 SAR. while 75% 
 are approximately 100k SAR. In Jeddah we can see higher numbers than in Riyadh. but 
@@ -78,9 +79,9 @@ prices.
 
 #### Implementation
 We implemented algorithms based on linear regression and regression tree. 
-But first the dataset has some outliers, that are might be human error, like when property 
-size is only 1 m2, or the natural deviations in the prices where house reach 1,700,000 .sr.
-Removing outliers that is due to the nature of data is not a good practice of course, but in 
+But first the dataset has some outliers that might be human error, for example when property 
+size is only 1 m2, or the natural deviations in prices where a house reaches 1,700,000 SAR.
+Removing outliers that are due to the nature of data is not a good practice of course, but in 
 our case we decided to remove them as they added noise to our models.
 The models we decided to use are: Linear regression, logistic regression, K-nearest 
 neighbor regressor, Random Forest regressor, Decision Tree regressor, Support Vector 
