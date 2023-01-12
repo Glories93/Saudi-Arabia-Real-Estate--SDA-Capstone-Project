@@ -93,9 +93,6 @@ Hence, we went with optimizing two of them. With a grid search.
 In Random forest we obtained no much of an improvement. However, in XGBoost after 
 we change the algorithm to be tree based learner, we were able to obtain much higher R 
 squared score from 0.37 (in linear base learner) to 0.70 (in decision base learner).
-- What can be improved?
-Includes more features like if the property is near services such as entertainment centers, 
-commercial centers, malls, and educational institutions in addition to restaurants, and 
-cafes. Features like the property neighborhood including educational facilities, health care 
-services, and recreational facilities, which makes it very attractive for the population to 
-live in can improve the result.
+
+What can be improved? 
+- having features of whether the property is near services, entertainment centers, malls, and educational institutions in addition to restaurants, and cafes. Features like that can improve the result.
