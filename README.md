@@ -1,11 +1,10 @@
 ## Saudi Arabia Real Estate- SDA Capstone Project
 
 
-The Kingdom's Vision 2030 is one of the major projects that will have a significant impact on all aspects of life in Saudi Arabia, and in particular economically. One of the important economic areas in which the vision will have a clear impact is the real estate sector. Whoever looks at the vision document clearly sees its direct and indirect impact on the real estate sector. The mega projects NEOM, Qiddiya, and The Line will increase the real estate area in the Kingdom and thus increase the area of housing, work, and jobs. The accurate forecast of future property prices is particularly important. As real estate prices reflect the economic level of countries. Developing a house-price forecast model could significantly assist in predicting future real estate prices and setting regulations. 
+The Kingdom's Vision 2030 is one of the major projects that will have a significant impact on all aspects of life in Saudi Arabia, and in particular economically. One of the important economic areas in which the vision will have a clear impact is the real estate sector. Whoever looks at the vision document clearly sees its direct and indirect impact on the real estate sector. The mega projects NEOM, Qiddiya, and The Line will increase the real estate area in the Kingdom and thus increase the area of housing, work, and jobs. The accurate forecast of future property prices is particularly important. As real estate prices reflect the economic level of countries. Developing a house-price forecast model could significantly assist in predicting future real estate prices and setting regulations.
 
-     In this project, we are forecasting Saudi real estate prices. The dataset is from Kaggle. And it was collected and scrapped from Aqar website, which is a specialized application for Saudi real estate, That shows you the properties available around you. 
+In this project, we are forecasting Saudi real estate prices. The dataset is from Kaggle. And it was collected and scrapped from Aqar website, which is a specialized application for Saudi real estate, That shows you the properties available around you. 
      This statistical analysis aims to help us understand the relationship between house features and how these variables are used to predict house prices. The dataset has some information for four cities which they are: Riyadh the Capital city of Saudi Arabia and the biggest city. And Jeddah is the second biggest city. It also has Dammam and Khobar and they are relatively small cities.
-
 
      
 ##### Columns Definition:
